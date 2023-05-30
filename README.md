@@ -7,6 +7,14 @@ El REST API está desarrollado en Node.js utilizando el framework Express.js. Se
 
 Con esta API, los usuarios pueden realizar operaciones como obtener todos los usuarios, obtener usuarios por ID, crear nuevos usuarios, actualizar información de usuarios existentes y eliminar usuarios.
 
+###
+
+![get](https://github.com/MilenaIsasi/rest-api/assets/115422599/7d9bbb58-8251-428e-91c8-2e1e55bf4a53)
+![delete](https://github.com/MilenaIsasi/rest-api/assets/115422599/dc4dec2e-0ba9-4453-80dd-1483784d9856)
+![getid](https://github.com/MilenaIsasi/rest-api/assets/115422599/d0b3c987-4e72-469c-89c2-c968e3a67289)
+![post](https://github.com/MilenaIsasi/rest-api/assets/115422599/b3b1120e-c692-434e-a466-8762581e4ae5)
+
+###
 
 ## Endpoints
 
